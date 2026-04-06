@@ -54,4 +54,4 @@ jupyter notebook India_HDI_Forecasting_Inequality.ipynb
 
 ## Author
 
-[Your Name] · [Your LinkedIn URL] · [Your Email]
+[FIDA FATHIMA K]  [fathimakfida@gmail.com]
